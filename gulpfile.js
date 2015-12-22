@@ -171,5 +171,5 @@ gulp.task('default', ['build', 'watch'], function () {
 
 // 构建任务
 gulp.task('build', function (cb) {
-  runSequence('clean', ['styles', 'jshint', 'html', 'images', 'copy', 'browserify'], cb);
+  runSequence('clean', ['styles', /*'jshint',*/ 'html', 'images', 'copy', 'browserify'], cb);
 });

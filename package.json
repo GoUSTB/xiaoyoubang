@@ -1,9 +1,9 @@
 {
-  "name": "react-starter-kit",
+  "name": "xiaoyoubang",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Amaze UI React Starter Kit",
-  "repository": "https://github.com/amazeui/react-starter-kit",
+  "repository": "https://github.com/GoUSTB/xiaoyoubang",
   "license": "MIT",
   "engines": {
     "node": ">= 0.10"

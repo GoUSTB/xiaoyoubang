@@ -8,8 +8,8 @@ var Index = React.createClass({
     return (
       <div className="ask-banner">
         <AMR.Container>
-          <h1>Hello All!</h1>
-          <h2>欢迎来到 校友邦！</h2>
+          <h1>Hello All</h1>
+          <h2>欢迎来到校友邦</h2>
         </AMR.Container>
       </div>
     );

@@ -1,10 +1,6 @@
-# Amaze UI React Starter Kit
 
-Amaze UI React 快速入门套件，基于 React、Amaze UI 组件、react-router 及 gulp 开发 SPA。
 
-**套件中目前只包含客户部代码**。
-
-## 目录结构
+## 校友邦前端目录结构
 
 项目文件放在 `app` 目录下：
 
@@ -21,6 +17,8 @@ Amaze UI React 快速入门套件，基于 React、Amaze UI 组件、react-route
 ```
 
 ## 使用说明
+
+### 首先确认已安装node环境
 
 ### 全局安装 gulp：
 
@@ -46,3 +44,7 @@ npm start
 ```
 npm run build
 ```
+
+## 校友邦后端目录结构
+
+（待完成）

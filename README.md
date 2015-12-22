@@ -29,6 +29,9 @@ npm install gulp -g
 ### 安装开发依赖
 
 1. 克隆或下载本项目；
+
+	git clone https://github.com/GoUSTB/xiaoyoubang.git
+
 2. 进入项目目录，执行 `npm install`；
 
 ### 开发
